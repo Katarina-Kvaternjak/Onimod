@@ -1,6 +1,7 @@
 <template>
 <div>
     <h1>Onimod</h1>
+    <p>Lorem ipsum</p>
     <var-button loading type="warning" loading-type="wave" color="green">Loading Status</var-button>
     <var-loading type="rect" style="color: green" />
     <var-loading type="cube"  style="color: green"/>
